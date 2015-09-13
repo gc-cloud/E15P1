@@ -6,11 +6,23 @@ features and content for larger screen sizes*/
 /********************** All screen sizes ****************************************/
 
 /* Fluid Header */
-.photo{
+.photo {
   display:block;
 	margin: auto;
 	max-width:25%;
+  border-radius: 5px;
+  float: left;
+  padding-bottom: .1em;
 	}
+
+.projectName {
+    float: right;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-bottom:1px solid #900000;
+    border-right: 1px solid #900000;
+    border-bottom-right-radius: 5px;
+  }
 
 hr {
 	background:#900000;
@@ -20,7 +32,7 @@ hr {
 
 header {
 	padding-top:1em;
-	width:100%;
+  width:100%;
 	}
 
 h1, h2, h3 {
@@ -47,8 +59,8 @@ h2, h3 {
 /* Override skeleton settings to my preference */
 body {
 	font-family:Raleway, sans-serif;
-	background-image:linear-gradient(180deg,#e3e3e3 45%, #EEE 70%,#d3d3d3 85%);
-	margin: 0 15%;
+  background-image:linear-gradient(180deg,#fff 55%, #d3d3d3 98%);
+	margin: 0 10%;
 	}
 
 .project{

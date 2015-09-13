@@ -9,6 +9,7 @@
           <div class="row mainContent" title="Dynamic Web Apps Portfolio">
               <div class="twelve columns">
                 <main role="main">
+                  <hr/>
                   <div id="accordion">
                     <h2> Projects</h2>
                       <ul>
@@ -47,13 +48,13 @@
                         <li>I took courses on programming abstractions and computer organization
                          and systems at Stanford, where I learned the basics of C,
                          C++ and some assembly. Last semester I took CSCIE12 at Harvard,
-                          where I learned HTML5, CSS, Java Script "hacking" and how to spell PHP.</li>
+                          where I learned HTML5, CSS, Java Script "hacking", and how to spell PHP.</li>
                       </ul>
                     <h2>Platform</h2>
                       <ul>
-                        <li>I am running MAMP on a MacBook pro with OSX Yosemite 10.10.5
+                        <li>I am running MAMP on a MacBook pro with OSX Yosemite 10.10.5.
                         The hardware is a few years old and the graphics processor gets
-                        hot when watching videos. I changed the hard drive to solid state,
+                        hot when processing videos. I changed the hard drive to solid state,
                         which made a nice difference speed-wise. I'm using Atom as my code
                       editor. </li>
                       </ul>
