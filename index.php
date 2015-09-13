@@ -8,17 +8,17 @@
           <div class="container">
           <div class="row mainContent" title="Dynamic Web Apps Portfolio">
               <div class="twelve columns">
-                <main role="main">
+                <main>
                   <hr/>
                   <div id="accordion">
                     <h2> Projects</h2>
                       <ul>
-                        <li class ="project">Project 1: Portfolio / Workflow Setup. </li>
-                        <li>View:<a href="http://p1.zudbu.com">p1.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P1">E15P1</a>.</li><br/>
+                        <li class ="project">Project 1: Portfolio / Workflow Setup.</li>
+                        <li>View:<a href="http://p1.zudbu.com">p1.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P1">E15P1</a></li>
                         <li class ="project">Project 2: PHP Basics.</li>
-                        <li>View:<a href="http://p2.zudbu.com">p2.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P2">E15P2</a>.</li><br/>
+                        <li>View:<a href="http://p2.zudbu.com">p2.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P2">E15P2</a>.</li>
                         <li class ="project">Project 3: Framework Basics.</li>
-                        <li>View:<a href="http://p3.zudbu.com">p3.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P3">E15P3</a>.</li><br/>
+                        <li>View:<a href="http://p3.zudbu.com">p3.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P3">E15P3</a>.</li>
                         <li class ="project">Project 4: Final - Something Awesome.</li>
                         <li>View:<a href="http://p4.zudbu.com">p4.zudbu.com</a> Github:<a href="https://github.com/gc-cloud/E15P4">E15P4</a>.</li>
                       </ul>

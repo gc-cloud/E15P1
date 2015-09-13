@@ -15,6 +15,9 @@ features and content for larger screen sizes*/
   padding-bottom: .1em;
 	}
 
+.link{
+  color: #000099;
+}
 .projectName {
     float: right;
     font-weight: bold;
@@ -55,6 +58,11 @@ h2, h3 {
 	font-size:1.5em;
 	margin-bottom:.2em;
 	}
+
+/* Override jQuery UI settings to match rest of site */
+.ui-widget-content a {
+    color: #1EAEDB;;
+}
 
 /* Override skeleton settings to my preference */
 body {
