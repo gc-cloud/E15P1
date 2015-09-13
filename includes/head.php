@@ -1,6 +1,6 @@
 <!--Meta -->
 <meta charset="utf-8">
-<meta content="A healthy mind, body and spirit for all." name="description">
+<meta content="Zudbu: a healthy mind, body and spirit for all." name="Zudbu">
 <meta name="robots" content="noodp">
 <title id="pageName">Zudbu</title>
 
