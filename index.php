@@ -14,13 +14,13 @@
 
                       <h2> Projects</h2>
                           <ul>
-                              <li>Project 1. </li>
+                              <li>Project 1: Portfolio / Workflow Setup. </li>
                               <li>View:[link] Github:[link].</li>
-                              <li>Project 2.</li>
+                              <li>Project 2: PHP Basics.</li>
                               <li>View:[link] Github:[link].</li>
-                              <li>Project 3.</li>
+                              <li>Project 3: Framework Basics.</li>
                               <li>View:[link] Github:[link].</li>
-                              <li>Project 4.</li>
+                              <li>Project 4: Final - Something Awesome.</li>
                               <li>View:[link] Github:[link].</li>
                             </ul>
                           <h2>About Gerardo</h2>
