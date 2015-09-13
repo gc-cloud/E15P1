@@ -1,4 +1,4 @@
-# ESP15 - Project 1
+# E15 - Project 1
 ### Portfolio /  Workflow Setup
 This project presents a single landing page to access my portfolio at CSCIE15. Place holder links to github and to the expected subdomains are provided initially.   This project also provides some information about me.  
 
