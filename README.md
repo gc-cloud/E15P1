@@ -1,6 +1,6 @@
-# E15 - Project 1
+# CSCI-E15: Project 1
 ### Portfolio /  Workflow Setup
-This project presents a single landing page to access my portfolio at CSCIE15. Place holder links to github and to the expected subdomains are provided initially.   This project also provides some information about me.  
+This project presents a single landing page to access my portfolio at CSCI-E15. Place holder links to github and to the expected subdomains are provided initially.   This project also provides some information about me.  
 
 ### Repository Location
 [GitHub gc-cloud E15](https://github.com/gc-cloud/E15P1)
