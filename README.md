@@ -13,4 +13,4 @@ Project 1 uses a combination of PHP includes, Java Script and the Skeleton frame
   - The main content is on index.php.  Head, Header and Footer content is obtained from calls to  head.php, header.php and footer.php
   - Collapsible menus are based on the [jQuery User Interface](http://jqueryui.com)
   - The layout is mobile-first and responsive. To do this, I am using  [Skeleton](http://getskeleton.com), a very clean and light boilerplate. Specific CSS for this site are defined on zudbu.css
-  - We are obtaining the Raleway font from [Google fonts](http://fonts.googleapis.com)
+  - We are obtaining the Raleway font from [Google fonts](https://www.google.com/fonts)
