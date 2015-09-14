@@ -20,5 +20,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"> </script>
     <script src="js/onLoad.js"> </script>
     <script src="js/jquery-1.11.2.min.js"></script>
-    <script src="js/jquery-ui.js"></script>
+    <!--script src="js/jquery-ui.js"></script-->
+    <script src="js/jquery-ui.min.js"></script>
+
     <script src="js/jqueryui_init.js"> </script>
